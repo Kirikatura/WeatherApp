@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="logo_text">Погода в городе</string>
+    <string name="hint_text">введите город</string>
+    <string name="push_me">Найти</string>
+    <string name="toast_make_text">введите название города</string>
+</resources>
